@@ -1,1 +1,1 @@
-This is Fire alarm system written in x86 assembly. A hex file was produced using 8086 emulator and the whole system was simulated using Proteus.
+This is Fire Alarm System written in x86 assembly. A hex file was produced using 8086 emulator and the whole system was simulated using Proteus. This was done as a partial fulfillment of the course Microprocessors and Interfacing (Spring'17)
